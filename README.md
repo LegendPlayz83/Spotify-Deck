@@ -13,6 +13,15 @@ This board has touchscreen, along with Bluetooth and WIFI, which cancels out any
 - <b>Real-Time Music Information:</b> Shows track title, artist name, album name, and playback progress.
 - <b> Touchscreen Controls:</b> Supports play, pause, next track, previous track, and shuffle.
 
+<h3>BOM:</h3>
+
+| Name | Quantity | Cost | Link |
+|---|---:|---:|---|
+| ESP32 Dev Board | 1 | $18.20 | [Buy](https://techtonics.in/product/esp32-dev-board-wifi-bluetooth-with-2-8-inch-240x320-display-tft-touchscreen-cyd/) |
+| Spotify Premium | 1 | $15.42 | [Buy](https://open.spotify.com/premium) |
+| **Total** | | **$33.62** | |
+| **Total Funding Required** | | **$33.62** | |
+
 <h3>Arduino IDE libraries needed:</h3>  
 
 - ArduinoJson
